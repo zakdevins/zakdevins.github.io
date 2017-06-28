@@ -1,0 +1,4 @@
+.navbar-default .nav > li > a:hover,
+.navbar-default .nav > li > a:focus:hover {
+  color: #f6ff00;
+}
