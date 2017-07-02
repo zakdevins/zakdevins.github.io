@@ -31,6 +31,11 @@ hr {
     .navbar-default .nav>li>a, .navbar-default .nav>li>a:focus {
     	color: rgba(255,255,255,1);
     }
+
+    .navbar-default.affix .nav>li>a:focus:hover,
+    .navbar-default.affix .nav>li>a:hover {
+        color: #8e6b8b;
+    }
 }
 
 header .header-content .header-content-inner p {
@@ -38,5 +43,5 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
-	color: #8e6b8b !important;
+	color: #FFFFFF !important;
 }
