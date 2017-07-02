@@ -11,7 +11,7 @@ a:hover {
 }
 
 hr {
-	color: #8e6b8b;
+	border-color: #8e6b8b;
 }
 
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand:hover {
