@@ -43,5 +43,5 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
-	color: #FFFFFF !important;
+	color: #000000 !important;
 }
