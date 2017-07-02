@@ -9,3 +9,11 @@ a {
 a:hover {
 	color: #8e6b8b;
 }
+
+hr {
+	color: #8e6b8b;
+}
+
+.navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand:hover {
+	color: #8e6b8b;
+}
