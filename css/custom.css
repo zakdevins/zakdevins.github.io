@@ -23,11 +23,7 @@ hr {
         color: #000000;
         font-size: 14px
     }
-
-	.navbar-default.affix .navbar-header .navbar-brand:hover {
-		color: #8e6b8b !important;
-	}
-
+    
     .navbar-default.affix .navbar-header .navbar-brand:focus,
     .navbar-default.affix .navbar-header .navbar-brand:hover {
         color: #8e6b8b;
