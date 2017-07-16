@@ -37,6 +37,11 @@ hr {
     .navbar-default.affix .nav>li>a:hover {
         color: #8e6b8b;
     }
+
+    .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+        width: 650px;
+        height: 400px;
+    }
 }
 
 header .header-content .header-content-inner p {
@@ -45,11 +50,4 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
 	color: #caace2 !important;
-}
-
-@media (max-width: 768px) {
-    .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-        width: 650px;
-        height: 400px;
-    }
 }
