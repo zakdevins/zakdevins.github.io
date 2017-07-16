@@ -47,7 +47,9 @@ header .header-content .header-content-inner p {
 	color: #caace2 !important;
 }
 
-.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    width: 650px;
-    height: 400px;
+@media (max-width: 769px) {
+    .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+        width: 650px;
+        height: 400px;
+    }
 }
