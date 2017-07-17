@@ -42,10 +42,6 @@ hr {
         width: 650px;
         height: 400px;
     }
-
-    .navbar-default .navbar-header .navbar-brand {
-    color: black;
-}
 }
 
 header .header-content .header-content-inner p {
@@ -56,3 +52,8 @@ header .header-content .header-content-inner p {
 	color: #caace2 !important;
 }
 
+@media (min-width: 768px) {
+.navbar-default .navbar-header .navbar-brand {
+    color: black;
+}
+}
