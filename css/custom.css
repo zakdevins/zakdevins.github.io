@@ -46,6 +46,10 @@ hr {
     .navbar-default .navbar-header .navbar-brand {
     color: white !important;
 }
+
+    .navbar-default.affix .navbar-header .navbar-brand {
+        color: #000000 !important;
+    }
 }
 
 header .header-content .header-content-inner p {
