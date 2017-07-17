@@ -51,3 +51,7 @@ header .header-content .header-content-inner p {
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
 	color: #caace2 !important;
 }
+
+.navbar-default .navbar-header .navbar-brand {
+    color: black;
+}
