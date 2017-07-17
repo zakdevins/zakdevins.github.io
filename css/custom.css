@@ -44,7 +44,7 @@ hr {
     }
 
     .navbar-default .navbar-header .navbar-brand {
-    color: white;
+    color: white !important;
 }
 }
 
