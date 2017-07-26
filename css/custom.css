@@ -38,11 +38,6 @@ hr {
         color: #8e6b8b;
     }
 
-    .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-        width: 650px;
-        height: 400px;
-    }
-
     .navbar-default .navbar-header .navbar-brand {
     color: white !important;
 }
